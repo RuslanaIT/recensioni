@@ -1,0 +1,7 @@
+{
+  "name": "contest-recensioni-duomo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Contest recensioni Doppio Malto Milano Duomo: attribuzione recensioni, classifica, premi e report.",
+  "engines": { "node": ">=18" }
+}
